@@ -1,55 +1,60 @@
-@cheeaun's life
+@Mikel Calvo's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-23/10/2015 Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
-- 10/01/2014-09/05/2014 First trip to US (SF and Portland)
-- 11/09/2014-21/09/2014 First trip to Germany (Berlin)
-- 28/10/2014-8/11/2014 First trip to Australia (Sydney)
-- 23/04/2015-01/05/2015 First trip to New Zealand (Auckland)
-- 09/05/2015-16/05/2015 Second trip to Germany (Düsseldorf and Cologne)
-- 27/06/2015-05/07/2015 First trip to France (Paris)
-- 30/07/2015 Dad passed away
-- 02/10/2015 First MacBook
-- 26/10/2015-17/11/2015 First trip to Japan (Tokyo) and second trip to US (SF)
-- 15/02/2016-31/12/2018 Senior Software Engineer (Tech in Asia)
-- 01/03/2016 Launched 1st iOS app on the App Store
-- 20/04/2016 Launched 1st Android app on Google Play
-- 20/06/2016 Featured on [Digital News Asia](https://www.digitalnewsasia.com/digital-economy/datasets-rest-us-datagovsg)
-- 23/06/2016 Featured on [Channel 8 News](http://www.channel8news.sg/news8/singapore/20160623-sg-ida-govt-data/2898746.html)
-- 23/09/2016-30/09/2016 Second trip to Japan (Tokyo)
-- 07/10/2016 Featured on [GovTech conference](https://twitter.com/heliumlife/status/784217428410544128)
-- 25/11/2016 Gave a [talk](https://www.youtube.com/watch?v=V0dKzbhtHpQ) at JSConf.Asia
-- 07/12/2016 Featured on [Tech In Asia Developer Spotlight](https://www.techinasia.com/talk/developer-spotlight-this-frontend-dev-wont-tell-you-where-to-start)
-- 06/05/2017 Featured on [We Build SG LIVE Podcast](https://live.webuild.sg/046-chee-aun-lim/)
-- 02/06/2017-10/06/2017 First trip to Hong Kong and Macau
-- 27/07/2017-31/07/2017 Third trip to Japan (Tokyo)
-- 26/10/2017 Fourth laptop/ultrabook/tablet (Chuwi)
-- 26/04/2018-05/05/2018 First trip to Taiwan (Taipei)
-- 18/05/2018-21/05/2018 First trip to South Korea (Seoul)
-- 07/06/2018-14/06/2018 Second trip to Hong Kong and Macau
-- 01/09/2018-27/11/2018 Coaching at [TechLadies bootcamp](http://www.techladies.co/)
-- 08/11/2018 Second MacBook (MacBook Air)
-- 11/02/2019-~ Senior Software Engineer (SWAT)
-- 31/08/2019-08/09/2019 Fourth trip to Japan (Fukuoka), second trip to South Korea (Seoul)
-- 29/11/2019-08/12/2019 Fifth trip to Japan (Tokyo, Kyoto and Osaka)
-- 07/02/2020-14/02/2020 First trip to Thailand (Bangkok)
+- 19/12/1998 Born
+- 09/2004-07/2010 Primary School
+- 09/2010-07/2014 Boooring time in Junior High school
+- 09/2014-07/2016 Senior High School
+- 12/09/2016 Started a Programming Associate Degree
+- 14/09/2016 Dropped out
+- ~2006 Our first computer came to the family
+- 07/2010 Created my first website
+- 10/2010 Wrote my first line of code (VB)
+- 15/02/2014 Launched [Fanthom Studios](http://FanthomStudios.com "Fanthom Studios")
+- 15/02/2014 Launched "Flashlight" (My first app)
+- 15/02/2014 Launched "Did you know?"" (Android app)
+- 19/02/2014 Registered the domain [www.FanthomStudios.com](http://FanthomStudios.com "Fanthom Studios")
+- 15/02/2014 Launched "League of Legends Jokes" (Android app)
+- 24/07/2014-27/07/2014 Attended Euskal Encounter 22
+- 10/10/2014 Launched "League of Legends Guides" (Android app)
+- 21/11/2014-29/09/2015 Developed "Space Hero" (Android game)
+- 23/07/2015-26/07/2015 Attended Euskal Encounter 23
+- 30/09/2015 Launched "Space Hero" (Android game)
+- 18/11/2015-05/12/2015 Developed "Slide The Ball" (Android game)
+- 06/12/2015 Launched "Slide The Ball" (Android game)
+- 02/03/2016-04/04/2016 Developed "Habits" (Android app)
+- 06/04/2016-10/04/2016 Developed "Power Nap" (Android app)
+- 10/04/2016 Launched "Power Nap" (Android app)
+- 19/04/2016 Had the idea of [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
+- 20/04/2016-~ Developing [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
+- 22/07/2016-25/07/2016 Attended Euskal Encounter 24
+- 01/10/2016-05/10/2016 Developed "WakeMe!"
+- 06/10/2016 Launched "WakeMe!" (Android app)
+- 01/11/2016-15/01/2017 First job as a Services Assistant
+- 19/01/2017 Registered [www.MikelCalvo.me](http://MikelCalvo.me "MikelCalvo.me")
+- 19/01/2017 Created this timeline
+- 21/03/2017 Bought my first stock
+- 18/04/2017-28/02/2018 Worked as a Community Manager for [Renfe](http://www.renfe.com/ "Renfe")
+- 07/2017 Learned to play Poker (Texas hold 'em)
+- 12/07/2017 Learned to play Pool
+- 02/01/2018 Launched [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
+- 12/03/2018-17/03/2018 Friends trip to Madrid
+- 23/03/2018 Moved out to Madrid
+- 06/04/2018 Attended Madrid AI April
+- 23/06/2018 Moved back to The Basque Country
+- 11/08/2018-22/08/2018 Worked for [Interparking](http://www.interparking.es/es-ES/ "Interparking")
+- 01/08/2018-13/06/2019 Worked again as a Community Manager for [Renfe](http://www.renfe.com/ "Renfe")
+- 01/10/2018-~ Developing [LawActive](http://www.LawActive.es/ "LawActive")
+- 02/11/2018 Launched [MailWizz's npm package](https://www.npmjs.com/package/node-mailwizz "node-mailwizz")
+- 02/11/2018 Launched the first website of [LawActive](http://www.LawActive.es/ "LawActive")
+- 17/12/2018 Published [the books I've read](http://www.mikelcalvo.net/books "Books I've read")
+- 15/02/2019 Opened my first trading account with 1000€
+- 22/02/2019 Bought a small vending machine
+- 23/05/2019 Got my driver's license
+- 17/06/2019 Bought my first car
+- 17/06/2019-~ Started working as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
+- 30/07/2019 Started a value investing account
+- 08/07/2019-11/07/2019 Went to Madrid for a Kotlin for Android course
+- 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit")
+- 25/01/2020 Started learning German
+- 16/03/2020-23/03/2020 Developed "Poker Calculator" (Android App) during the COVID-19 lockdown
