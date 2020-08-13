@@ -55,6 +55,7 @@
 - 17/06/2019-~ Started working as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
 - 30/07/2019 Started a value investing account
 - 08/07/2019-11/07/2019 Went to Madrid for a Kotlin for Android course
-- 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit")
+- 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit") as an experiment
 - 25/01/2020 Started learning German
 - 16/03/2020-23/03/2020 Developed [Poker Calculator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.pokercalculator "Poker Calculator") during the COVID-19 lockdown
+- 29/06/2020-03/07/2020 Attended [Value School Summer Summit](https://valueschool.es/summer-summit)
