@@ -56,6 +56,8 @@
 - 30/07/2019 Started a value investing account
 - 08/07/2019-11/07/2019 Went to Madrid for a Kotlin for Android course
 - 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit") as an experiment
+- 12/2019 [Completed the course How to Save Money: Making Smart Financial Decisions by University of California, Berkeley on edX](https://courses.edx.org/certificates/a7d5c756db7f4d5cb56a98248c74aceb "Completed the course How to Save Money: Making Smart Financial Decisions - University of California, Berkeley on edX")
 - 25/01/2020 Started learning German
 - 16/03/2020-23/03/2020 Developed [Poker Calculator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.pokercalculator "Poker Calculator") during the COVID-19 lockdown
 - 29/06/2020-03/07/2020 Attended [Value School Summer Summit](https://valueschool.es/summer-summit)
+- 05/10/2020-~ Started a [course on Microeconomics](https://www.edx.org/es/course/microeconomics "course on Microeconomics") - MITx on edX
