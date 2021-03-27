@@ -61,4 +61,4 @@
 - 16/03/2020-23/03/2020 Developed [Poker Calculator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.pokercalculator "Poker Calculator") during the COVID-19 lockdown
 - 29/06/2020-03/07/2020 Attended [Value School Summer Summit](https://valueschool.es/summer-summit)
 - 05/10/2020-21/12/2020 [Completed a course on Microeconomics by MIT on edX](https://courses.edx.org/certificates/bfebc793a5c64baca40abcf545b88204 "Completed a course on Microeconomics by MIT on edX")
-- 23/02/2021-~ [Started a course on Blockchain Technology by University of California, Berkeley on edX](https://www.edx.org/course/blockchain-technology "Started a course on Blockchain Technology by University of California, Berkeley on edX")
+- 23/02/2021-27/03/2021 [Completed a course on Blockchain Technology by University of California, Berkeley on edX](https://courses.edx.org/certificates/54914b61310e45c4bce5e24b75a9610e "Completed a course on Blockchain Technology by University of California, Berkeley on edX")
