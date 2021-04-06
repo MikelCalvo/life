@@ -9,6 +9,7 @@
 - 14/09/2016 Dropped out
 - ~2006 Our first computer came to the family
 - 07/2010 Created my first website
+- 10/07/2010 Opened a Habbo server
 - 10/2010 Wrote my first line of code (VB)
 - 15/02/2014 Launched [Fanthom Studios](http://FanthomStudios.com "Fanthom Studios")
 - 15/02/2014 Launched "Flashlight" (My first app)
