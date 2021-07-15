@@ -64,3 +64,6 @@
 - 05/10/2020-21/12/2020 [Completed a course on Microeconomics by MIT on edX](https://courses.edx.org/certificates/bfebc793a5c64baca40abcf545b88204 "Completed a course on Microeconomics by MIT on edX")
 - 23/02/2021-27/03/2021 [Completed a course on Blockchain Technology by University of California, Berkeley on edX](https://courses.edx.org/certificates/54914b61310e45c4bce5e24b75a9610e "Completed a course on Blockchain Technology by University of California, Berkeley on edX")
 - 23/04/2021-25/04/2021 Created [Video Generator](https://github.com/MikelCalvo/Lofi_Videos_Generator/ "Video Generator") for [Tik Tok](https://www.tiktok.com/@sadlofizone "Tik Tok")
+- 07/06/2021-15/07/2021 [Completed a course on Blockchain & Cryptocurrencies by University of Salamanca, on CYBERWALL ACADEMY](https://web.tresorit.com/l/eRncw#Q97r9gfkntETBQy65rUuPw "Completed a course on Blockchain & Cryptocurrencies by University of Salamanca, on CYBERWALL ACADEMY")
+- 25/06/2021-26/06/2021 Friends trip to Madrid
+- 31/07/2021 Moved out to Madrid
