@@ -66,4 +66,4 @@
 - 25/06/2021-26/06/2021 Friends trip to Madrid
 - 31/07/2021 Moved out to Madrid
 - 03/09/2021-~ [Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ "Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, on Udemy")
-- 04/09/2021-~ [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
+- 04/09/2021 [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
