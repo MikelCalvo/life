@@ -1,5 +1,4 @@
-@Mikel Calvo's life
-===============
+# @Mikel Calvo's life
 
 - 19/12/1998 Born
 - 09/2004-07/2010 Primary School
@@ -51,7 +50,7 @@
 - 22/02/2019 Bought a small vending machine
 - 23/05/2019 Got my driver's license
 - 17/06/2019 Bought my first car
-- 17/06/2019-~ Started working as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
+- 17/06/2019-09/12/2021 Started working as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
 - 30/07/2019 Started a value investing account
 - 08/07/2019-11/07/2019 Went to Madrid for a Kotlin for Android course
 - 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit") as an experiment
@@ -67,3 +66,5 @@
 - 31/07/2021 Moved out to Madrid
 - 03/09/2021-~ [Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ "Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, on Udemy")
 - 04/09/2021 [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
+- 09/12/2021-07/04/2022 Started working as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
+- 28/03/2022-03/03/2022 Friends trip to México
