@@ -64,7 +64,7 @@
 - 07/06/2021-15/07/2021 [Completed a course on Blockchain & Cryptocurrencies by University of Salamanca on CYBERWALL ACADEMY](https://web.tresorit.com/l/eRncw#Q97r9gfkntETBQy65rUuPw "Completed a course on Blockchain & Cryptocurrencies by University of Salamanca on CYBERWALL ACADEMY")
 - 25/06/2021-26/06/2021 Friends trip to Madrid
 - 31/07/2021 Moved out to Madrid
-- 03/09/2021-~ [Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/ "Started a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider, on Udemy")
+- 03/09/2021-23/05/2022 [Completed a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy](https://www.udemy.com/certificate/UC-1d900f69-a199-4581-9cd8-2f6753662b88/ "Completed a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy")
 - 04/09/2021 [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
-- 09/12/2021-07/04/2022 Started working as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
+- 09/12/2021-07/04/2022 Worked as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
 - 28/03/2022-03/03/2022 Friends trip to México
