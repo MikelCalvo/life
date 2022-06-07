@@ -68,3 +68,4 @@
 - 04/09/2021 [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
 - 09/12/2021-07/04/2022 Worked as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
 - 28/03/2022-03/03/2022 Friends trip to México
+- 30/05/2022-~ Started working at [Globant](https://globant.com/ "Globant") as an Android Developer
