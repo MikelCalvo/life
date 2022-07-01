@@ -69,5 +69,6 @@
 - 09/12/2021-07/04/2022 Worked as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
 - 28/03/2022-03/03/2022 Friends trip to México
 - 30/05/2022-~ Started working at [Globant](https://globant.com/ "Globant") as an Android Developer
-- 30/06/2022-~ Started a Ethereum 101 course on [cadena.dev](cadena.dev "cadena.dev")
+- 30/06/2022-01/07/2022 [Completed a Ethereum 101 course on cadena.dev](https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97 "https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97")
 - 01/07/2022 Created a basic decentralized bank [MKBank](https://mkbank.vercel.app/ "MKBank") / [Repo](https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev "Repo")
+- 01/07/2022 Created a Shitcoin that duplicates on every transaction [Repo](https://github.com/MikelCalvo/Ethereum-101-GorotzCoin-Cadena.dev "Repo")
