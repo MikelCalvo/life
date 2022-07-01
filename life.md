@@ -69,3 +69,5 @@
 - 09/12/2021-07/04/2022 Worked as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
 - 28/03/2022-03/03/2022 Friends trip to México
 - 30/05/2022-~ Started working at [Globant](https://globant.com/ "Globant") as an Android Developer
+- 30/06/2022-~ Started a Ethereum 101 course on [cadena.dev](cadena.dev "cadena.dev")
+- 01/07/2022 Created a basic decentralized bank [MKBank](https://mkbank.vercel.app/ "MKBank") / [Repo](https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev "Repo")
