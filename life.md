@@ -26,7 +26,7 @@
 - 06/04/2016-10/04/2016 Developed "Power Nap" (Android app)
 - 10/04/2016 Launched "Power Nap" (Android app)
 - 19/04/2016 Had the idea of [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
-- 20/04/2016-~ Developing [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
+- 20/04/2016-10/06/2020 Developed [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
 - 22/07/2016-25/07/2016 Attended Euskal Encounter 24
 - 01/10/2016-05/10/2016 Developed "WakeMe!"
 - 06/10/2016 Launched "WakeMe!" (Android app)
