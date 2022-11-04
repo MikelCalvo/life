@@ -68,3 +68,4 @@
 - 30/06/2022-01/07/2022 [Completed a Ethereum 101 course on cadena.dev](https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97 "https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97")
 - 01/07/2022 Created a basic decentralized bank [MKBank](https://mkbank.vercel.app/ "MKBank") / [Repo](https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev "Repo")
 - 01/07/2022 Created a Shitcoin that duplicates on every transaction [Repo](https://github.com/MikelCalvo/Ethereum-101-GorotzCoin-Cadena.dev "Repo")
+- 04/11/2022 Started the YT Channel [Bathroom Music]([https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ](https://www.youtube.com/@BathroomMusic) "Bathroom Music") as an experiment
