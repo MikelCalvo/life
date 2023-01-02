@@ -71,3 +71,4 @@
 - 26/08/2022-21/11/2022 [Completed a course on Jetpack Compose, MVVM, Coroutines, ViewModel, LiveData, Retrofit, Navigation on Udemy](https://udemy.com/certificate/UC-da4e4a97-3b59-49a9-bddf-3d7e2899eeff/ "Completed a course on Jetpack Compose, MVVM, Coroutines, ViewModel, LiveData, Retrofit, Navigation on Udemy")
 - 21/10/2022 Bought a new car
 - 04/11/2022 Started the YT Channel [Bathroom Music](https://www.youtube.com/@BathroomMusic "Bathroom Music") as an experiment
+- 02/01/2023-~ Started a course on [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/ "SOLID Principles of Object-Oriented Design and Architecture")
