@@ -72,3 +72,4 @@
 - 21/10/2022 Bought a new car
 - 04/11/2022 Started the YT Channel [Bathroom Music](https://www.youtube.com/@BathroomMusic "Bathroom Music") as an experiment
 - 02/01/2023-09/01/2023 [Completed a course on SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-1c9f2476-1170-4d2d-9cc3-18d3b6c35435/ "Completed a course on SOLID Principles of Object-Oriented Design and Architecture")
+- 17/01/2023-~ Started a course on [Software Architecture Case Studies](https://www.udemy.com/course/software-architecture-case-studies/ "Software Architecture Case Studies")
