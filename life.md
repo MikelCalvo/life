@@ -74,4 +74,5 @@
 - 02/01/2023-09/01/2023 [Completed a course on SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-1c9f2476-1170-4d2d-9cc3-18d3b6c35435/ "Completed a course on SOLID Principles of Object-Oriented Design and Architecture")
 - 17/01/2023-25/01/2023 [Completed a course on Software Architecture Case Studies](https://udemy.com/certificate/UC-50f01a04-d44c-4db3-9999-8ffcf91f9347/ "Completed a course on Software Architecture Case Studies")
 - 01/02/2023-07/02/2023 Created the website [wwww.contadordetextos.com](https://contadordetextos.com "wwww.contadordetextos.com") with [Christian Gonzalez](https://chgonzalez.com/ "Christian Gonzalez")
-- 24/03/2023 Developed [Password Generator](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
+- 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
+- 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT4
