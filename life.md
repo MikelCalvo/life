@@ -76,3 +76,4 @@
 - 01/02/2023-07/02/2023 Created the website [wwww.contadordetextos.com](https://contadordetextos.com "wwww.contadordetextos.com") with [Christian Gonzalez](https://chgonzalez.com/ "Christian Gonzalez")
 - 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
 - 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT4
+- 02/08/2023 Started learning Arduino & Electrical Soldering
