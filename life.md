@@ -77,3 +77,4 @@
 - 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
 - 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT4
 - 02/08/2023 Started learning Arduino & Electrical Soldering
+- 13/12/2023 Created [node-ipdox](https://github.com/MikelCalvo/node-ipdox)
