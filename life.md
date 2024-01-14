@@ -76,5 +76,7 @@
 - 01/02/2023-07/02/2023 Created the website [wwww.contadordetextos.com](https://contadordetextos.com "wwww.contadordetextos.com") with [Christian Gonzalez](https://chgonzalez.com/ "Christian Gonzalez")
 - 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
 - 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT4
+- 03/07/2023 Opened a [Find My Device](https://gitlab.com/Nulide/findmydevice) public server at [fmd.mikelcalvo.net](https://fmd.mikelcalvo.net)
 - 02/08/2023 Started learning Arduino & Electrical Soldering
 - 13/12/2023 Created [node-ipdox](https://github.com/MikelCalvo/node-ipdox)
+- 14/01/2024 Created an status page for personal projects [status.mikelcalvo.net](https://status.mikelcalvo.net) with [Uptime Kuma](https://github.com/louislam/uptime-kuma)
