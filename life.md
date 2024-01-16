@@ -80,3 +80,4 @@
 - 02/08/2023 Started learning Arduino & Electrical Soldering
 - 13/12/2023 Created [node-ipdox](https://github.com/MikelCalvo/node-ipdox)
 - 14/01/2024 Created an status page for personal projects [status.mikelcalvo.net](https://status.mikelcalvo.net) with [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+- 14/01/2024 Published [lab.mikelcalvo.net](https://lab.mikelcalvo.net) to host open source projects
