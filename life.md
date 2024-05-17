@@ -45,7 +45,7 @@
 - 01/08/2018-13/06/2019 Worked again as a Community Manager for [Renfe](http://www.renfe.com/ "Renfe")
 - 01/10/2018-~ Developing [LawActive](http://www.LawActive.es/ "LawActive")
 - 02/11/2018 Launched [MailWizz's npm package](https://www.npmjs.com/package/node-mailwizz "node-mailwizz")
-- 02/11/2018 Launched the first website of [LawActive](http://www.LawActive.es/ "LawActive")
+- 02/11/2018 Launched the first website of [LawActive](http://www.LawActive.es/ "LawActive") for users to get notified on platform launch day.
 - 17/12/2018 Published [the books I've read](http://www.mikelcalvo.net/books "Books I've read")
 - 22/02/2019 Bought a small vending machine
 - 23/05/2019 Got my driver's license
@@ -81,4 +81,5 @@
 - 13/12/2023 Created [node-ipdox](https://github.com/MikelCalvo/node-ipdox)
 - 14/01/2024 Created an status page for personal projects [status.mikelcalvo.net](https://status.mikelcalvo.net) with [Uptime Kuma](https://github.com/louislam/uptime-kuma)
 - 14/01/2024 Published [lab.mikelcalvo.net](https://lab.mikelcalvo.net) to host open source projects
-- 11/04/2024 Viewed [La Gabarra](https://edition.cnn.com/2024/04/09/sport/la-gabarra-athletic-bilbao-trophy-parade-spt-intl/index.html) of Athletic Club 
+- 11/04/2024 Viewed [La Gabarra](https://edition.cnn.com/2024/04/09/sport/la-gabarra-athletic-bilbao-trophy-parade-spt-intl/index.html) of Athletic Club
+- 17/05/2024 Launched the first version of [LawActive](https://lawactive.es)
