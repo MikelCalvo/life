@@ -83,4 +83,5 @@
 - 14/01/2024 Published [lab.mikelcalvo.net](https://lab.mikelcalvo.net) to host open source projects
 - 11/04/2024 Viewed [La Gabarra](https://edition.cnn.com/2024/04/09/sport/la-gabarra-athletic-bilbao-trophy-parade-spt-intl/index.html) of Athletic Club
 - 17/05/2024 Launched the first version of [LawActive](https://lawactive.es)
-- 13/06/2024 Built my first NAS with trueNAS
+- 13/06/2024 Built my first NAS with TrueNAS
+- 22/06/2024 Played paintball for the first time
