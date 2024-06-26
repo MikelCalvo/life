@@ -85,3 +85,4 @@
 - 17/05/2024 Launched the first version of [LawActive](https://lawactive.es)
 - 13/06/2024 Built my first NAS with TrueNAS
 - 22/06/2024 Played paintball for the first time
+- 24/06/2024 Shooted a gun for the first time (also first time doing Skeet Shooting)
