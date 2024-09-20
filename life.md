@@ -87,3 +87,4 @@
 - 22/06/2024 Played paintball for the first time
 - 24/06/2024 Shooted a gun for the first time (also first time doing Skeet Shooting)
 - 02/08/2024-~ Started a course on [Governance in the European Union on edX](https://www.edx.org/es/learn/europe/ku-leuven-governance-in-the-european-union "Governance in the European Union on edX")
+- 05/09/2024 Bought a 3D printer
