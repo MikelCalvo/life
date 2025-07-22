@@ -86,7 +86,7 @@
 - 13/06/2024 Built my first NAS with TrueNAS
 - 22/06/2024 Played paintball for the first time
 - 24/06/2024 Shooted a gun for the first time (also first time doing Skeet Shooting)
-- 02/08/2024-~ Started a course on [Governance in the European Union on edX](https://www.edx.org/es/learn/europe/ku-leuven-governance-in-the-european-union "Governance in the European Union on edX")
 - 05/09/2024 Bought a 3D printer
 - 31/12/2024 Launched [TintedBySatoshi](https://taintedbysatoshi.com)
 - 04/03/2025 Launched an AI Generated [Daily Tech News Youtube Channel](https://www.youtube.com/@DailyTopTechNews)
+- 26/07/2025 Created [ShodanCameraFinder](https://github.com/MikelCalvo/ShodanCameraFinder) a script to find and view publicly opened cameras
