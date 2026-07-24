@@ -87,6 +87,12 @@
 - 22/06/2024 Played paintball for the first time
 - 24/06/2024 Shooted a gun for the first time (also first time doing Skeet Shooting)
 - 05/09/2024 Bought a 3D printer
-- 31/12/2024 Launched [TintedBySatoshi](https://taintedbysatoshi.com)
-- 04/03/2025 Launched an AI Generated [Daily Tech News Youtube Channel](https://www.youtube.com/@DailyTopTechNews)
-- 26/07/2025 Created [ShodanCameraFinder](https://github.com/MikelCalvo/ShodanCameraFinder) a script to find and view publicly opened cameras
+- 31/12/2024 Launched [TaintedBySatoshi](https://taintedbysatoshi.com)
+- 04/03/2025 Launched an AI-generated [Daily Tech News YouTube channel](https://www.youtube.com/@DailyTopTechNews)
+- 21/07/2025 Opened a [Cashu](https://cashu.space/) mint: [MK Mint](https://mint.mikelcalvo.net/)
+- 24/07/2025-27/07/2025 Attended [Euskal Encounter 33](https://ee33.euskalencounter.org/)
+- 26/07/2025 Created [ShodanCameraFinder](https://github.com/MikelCalvo/ShodanCameraFinder), a script to find and view publicly accessible cameras
+- 02/12/2025 Created [rnsid-vanity-generator](https://github.com/MikelCalvo/rnsid-vanity-generator), a parallel vanity identity generator for Reticulum
+- 30/01/2026 Created [ERPNext CLI](https://github.com/MikelCalvo/ERPNext-cli), a command-line and TUI client for ERPNext
+- 23/07/2026-26/07/2026 Attended [Euskal Encounter 34](https://ee34.euskalencounter.org/)
+- 23/07/2026 Launched [The402Machine](https://github.com/The402Machine/The402Machine), a platform for temporary Internet appliances
