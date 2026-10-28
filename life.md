@@ -6,13 +6,13 @@
 - 09/2014-07/2016 Senior High School
 - 12/09/2016 Started a Programming Associate Degree
 - 14/09/2016 Dropped out
-- ~2006 Our first computer came to the family
+- ~2006 Got our first family computer
 - 07/2010 Created my first website
 - 10/07/2010 Opened a Habbo server
 - 10/2010 Wrote my first line of code (VB)
 - 15/02/2014 Launched [Fanthom Studios](http://FanthomStudios.com "Fanthom Studios")
 - 15/02/2014 Launched "Flashlight" (My first app)
-- 15/02/2014 Launched "Did you know?"" (Android app)
+- 15/02/2014 Launched "Did you know?" (Android app)
 - 19/02/2014 Registered the domain [www.FanthomStudios.com](http://FanthomStudios.com "Fanthom Studios")
 - 15/02/2014 Launched "League of Legends Jokes" (Android app)
 - 24/07/2014-27/07/2014 Attended Euskal Encounter 22
@@ -25,7 +25,7 @@
 - 02/03/2016-04/04/2016 Developed "Habits" (Android app)
 - 06/04/2016-10/04/2016 Developed "Power Nap" (Android app)
 - 10/04/2016 Launched "Power Nap" (Android app)
-- 19/04/2016 Had the idea of [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
+- 19/04/2016 Came up with the idea for [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
 - 20/04/2016-10/06/2020 Developed [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
 - 22/07/2016-25/07/2016 Attended Euskal Encounter 24
 - 01/10/2016-05/10/2016 Developed "WakeMe!"
@@ -37,55 +37,54 @@
 - 07/2017 Learned to play Poker (Texas hold 'em)
 - 12/07/2017 Learned to play Pool
 - 02/01/2018 Launched [DressIt (Personal Stylist)](http://getDressIt.com/ "DressIt")
-- 12/03/2018-17/03/2018 Friends trip to Madrid
-- 23/03/2018 Moved out to Madrid
+- 12/03/2018-17/03/2018 Trip to Madrid with friends
+- 23/03/2018 Moved to Madrid
 - 06/04/2018 Attended Madrid AI April
-- 23/06/2018 Moved back to The Basque Country
+- 23/06/2018 Moved back to the Basque Country
 - 11/08/2018-22/08/2018 Worked for [Interparking](http://www.interparking.es/es-ES/ "Interparking")
 - 01/08/2018-13/06/2019 Worked again as a Community Manager for [Renfe](http://www.renfe.com/ "Renfe")
 - 01/10/2018-~ Developing [LawActive](http://www.LawActive.es/ "LawActive")
-- 02/11/2018 Launched [MailWizz's npm package](https://www.npmjs.com/package/node-mailwizz "node-mailwizz")
-- 02/11/2018 Launched the first website of [LawActive](http://www.LawActive.es/ "LawActive") for users to get notified on platform launch day.
+- 02/11/2018 Published the [MailWizz npm package](https://www.npmjs.com/package/node-mailwizz "node-mailwizz")
+- 02/11/2018 Launched the first website of [LawActive](http://www.LawActive.es/ "LawActive") to notify users when the platform launched.
 - 17/12/2018 Published [the books I've read](http://www.mikelcalvo.net/books "Books I've read")
 - 22/02/2019 Bought a small vending machine
 - 23/05/2019 Got my driver's license
 - 17/06/2019 Bought my first car
-- 17/06/2019-09/12/2021 Started working as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
+- 17/06/2019-09/12/2021 Worked as an Android Developer for [Ibermatica](https://ibermatica.com/ "Ibermatica")
 - 08/07/2019-11/07/2019 Went to Madrid for a Kotlin for Android course
-- 19/11/2019 Started the YT Channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit") as an experiment
+- 19/11/2019 Started the YouTube channel [Historias de Reddit](https://www.youtube.com/channel/UC-CcVrIppHTRTiAiW1FlkPQ "Historias de Reddit") as an experiment
 - 12/2019 [Completed the course How to Save Money: Making Smart Financial Decisions by University of California, Berkeley on edX](https://courses.edx.org/certificates/a7d5c756db7f4d5cb56a98248c74aceb "Completed the course How to Save Money: Making Smart Financial Decisions - University of California, Berkeley on edX")
-- 25/01/2020 Started learning German
 - 16/03/2020-23/03/2020 Developed [Poker Calculator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.pokercalculator "Poker Calculator") during the COVID-19 lockdown
 - 29/06/2020-03/07/2020 Attended [Value School Summer Summit](https://valueschool.es/summer-summit)
 - 05/10/2020-21/12/2020 [Completed a course on Microeconomics by MIT on edX](https://courses.edx.org/certificates/bfebc793a5c64baca40abcf545b88204 "Completed a course on Microeconomics by MIT on edX")
 - 23/02/2021-27/03/2021 [Completed a course on Blockchain Technology by University of California, Berkeley on edX](https://courses.edx.org/certificates/54914b61310e45c4bce5e24b75a9610e "Completed a course on Blockchain Technology by University of California, Berkeley on edX")
-- 23/04/2021-25/04/2021 Created [Video Generator](https://github.com/MikelCalvo/Lofi_Videos_Generator/ "Video Generator") for [Tik Tok](https://www.tiktok.com/@sadlofizone "Tik Tok")
+- 23/04/2021-25/04/2021 Created [Video Generator](https://github.com/MikelCalvo/Lofi_Videos_Generator/ "Video Generator") for [TikTok](https://www.tiktok.com/@sadlofizone "TikTok")
 - 07/06/2021-15/07/2021 [Completed a course on Blockchain & Cryptocurrencies by University of Salamanca on CYBERWALL ACADEMY](https://web.tresorit.com/l/eRncw#Q97r9gfkntETBQy65rUuPw "Completed a course on Blockchain & Cryptocurrencies by University of Salamanca on CYBERWALL ACADEMY")
 - 03/09/2021-23/05/2022 [Completed a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy](https://www.udemy.com/certificate/UC-1d900f69-a199-4581-9cd8-2f6753662b88/ "Completed a course on Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider on Udemy")
-- 04/09/2021 [Started learning Solidity creating a NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity creating a NFTCasino")
+- 04/09/2021 [Started learning Solidity by building NFTCasino](https://github.com/MikelCalvo/NFTCasino "Started learning Solidity by building NFTCasino")
 - 09/12/2021-07/04/2022 Worked as a Backend Developer for [NTTData](https://nttdata.com/ "NTTData")
 - 30/05/2022-~ Started working at [Globant](https://globant.com/ "Globant") as an Android Developer
-- 30/06/2022-01/07/2022 [Completed a Ethereum 101 course on cadena.dev](https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97 "https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97")
+- 30/06/2022-01/07/2022 [Completed an Ethereum 101 course on cadena.dev](https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97 "https://opensea.io/assets/matic/0x112721c13dd721a543a0c805791dceebdbaf308d/97")
 - 01/07/2022 Created a basic decentralized bank [MKBank](https://mkbank.vercel.app/ "MKBank") / [Repo](https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev "Repo")
 - 01/07/2022 Created a Shitcoin that duplicates on every transaction [Repo](https://github.com/MikelCalvo/Ethereum-101-GorotzCoin-Cadena.dev "Repo")
 - 26/08/2022-21/11/2022 [Completed a course on Jetpack Compose, MVVM, Coroutines, ViewModel, LiveData, Retrofit, Navigation on Udemy](https://udemy.com/certificate/UC-da4e4a97-3b59-49a9-bddf-3d7e2899eeff/ "Completed a course on Jetpack Compose, MVVM, Coroutines, ViewModel, LiveData, Retrofit, Navigation on Udemy")
 - 21/10/2022 Bought a new car
-- 04/11/2022 Started the YT Channel [Bathroom Music](https://www.youtube.com/@BathroomMusic "Bathroom Music") as an experiment
+- 04/11/2022 Started the YouTube channel [Bathroom Music](https://www.youtube.com/@BathroomMusic "Bathroom Music") as an experiment
 - 02/01/2023-09/01/2023 [Completed a course on SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-1c9f2476-1170-4d2d-9cc3-18d3b6c35435/ "Completed a course on SOLID Principles of Object-Oriented Design and Architecture")
 - 17/01/2023-25/01/2023 [Completed a course on Software Architecture Case Studies](https://udemy.com/certificate/UC-50f01a04-d44c-4db3-9999-8ffcf91f9347/ "Completed a course on Software Architecture Case Studies")
-- 01/02/2023-07/02/2023 Created the website [wwww.contadordetextos.com](https://contadordetextos.com "wwww.contadordetextos.com") with [Christian Gonzalez](https://chgonzalez.com/ "Christian Gonzalez")
-- 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT4
-- 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT4
+- 01/02/2023-07/02/2023 Created the website [www.contadordetextos.com](https://contadordetextos.com "www.contadordetextos.com") with [Christian Gonzalez](https://chgonzalez.com/ "Christian Gonzalez")
+- 24/03/2023 Developed [Password Generator (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) ([Source Code](https://github.com/MikelCalvo/Android-Password-Generator)) using GPT-4
+- 25/03/2023 Developed [Battery Alarm (Android App)](https://play.google.com/store/apps/details?id=com.mikelcalvo.batteryalarm) ([Source Code](https://github.com/MikelCalvo/Android-Battery-Alarm)) using GPT-4
 - 03/07/2023 Opened a [Find My Device](https://gitlab.com/Nulide/findmydevice) public server at [fmd.mikelcalvo.net](https://fmd.mikelcalvo.net)
-- 02/08/2023 Started learning Arduino & Electrical Soldering
+- 02/08/2023 Started learning Arduino and soldering
 - 13/12/2023 Created [node-ipdox](https://github.com/MikelCalvo/node-ipdox)
-- 14/01/2024 Created an status page for personal projects [status.mikelcalvo.net](https://status.mikelcalvo.net) with [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+- 14/01/2024 Created a status page for personal projects [status.mikelcalvo.net](https://status.mikelcalvo.net) with [Uptime Kuma](https://github.com/louislam/uptime-kuma)
 - 14/01/2024 Published [lab.mikelcalvo.net](https://lab.mikelcalvo.net) to host open source projects
-- 11/04/2024 Viewed [La Gabarra](https://edition.cnn.com/2024/04/09/sport/la-gabarra-athletic-bilbao-trophy-parade-spt-intl/index.html) of Athletic Club
+- 11/04/2024 Watched [Athletic Club's La Gabarra parade](https://edition.cnn.com/2024/04/09/sport/la-gabarra-athletic-bilbao-trophy-parade-spt-intl/index.html)
 - 17/05/2024 Launched the first version of [LawActive](https://lawactive.es)
 - 13/06/2024 Built my first NAS with TrueNAS
 - 22/06/2024 Played paintball for the first time
-- 24/06/2024 Shooted a gun for the first time (also first time doing Skeet Shooting)
+- 24/06/2024 Shot a gun for the first time (also my first time skeet shooting)
 - 05/09/2024 Bought a 3D printer
 - 31/12/2024 Launched [TaintedBySatoshi](https://taintedbysatoshi.com)
 - 04/03/2025 Launched an AI-generated [Daily Tech News YouTube channel](https://www.youtube.com/@DailyTopTechNews)
@@ -93,6 +92,12 @@
 - 24/07/2025-27/07/2025 Attended [Euskal Encounter 33](https://ee33.euskalencounter.org/)
 - 26/07/2025 Created [ShodanCameraFinder](https://github.com/MikelCalvo/ShodanCameraFinder), a script to find and view publicly accessible cameras
 - 02/12/2025 Created [rnsid-vanity-generator](https://github.com/MikelCalvo/rnsid-vanity-generator), a parallel vanity identity generator for Reticulum
+- 03/12/2025-06/01/2026 Contributed Bluetooth controls, performance improvements and Spanish LoRa settings to [Columba](https://github.com/torlando-tech/columba), an Android messaging app built on Reticulum
 - 30/01/2026 Created [ERPNext CLI](https://github.com/MikelCalvo/ERPNext-cli), a command-line and TUI client for ERPNext
+- 23/03/2026 Created [hackrf-webui](https://github.com/MikelCalvo/hackrf-webui), a local web dashboard for HackRF radio
+- 17/04/2026-~ Developing [go-metin2-server](https://github.com/MikelCalvo/go-metin2-server), a clean-room Metin2 server emulator in Go (in progress)
 - 23/07/2026-26/07/2026 Attended [Euskal Encounter 34](https://ee34.euskalencounter.org/)
 - 23/07/2026 Launched [The402Machine](https://github.com/The402Machine/The402Machine), a platform for temporary Internet appliances
+- 29/09/2026-12/10/2026 Contributed monitoring and conversation activity to the community [Hermes Agent integration for Home Assistant](https://github.com/WolframRavenwolf/hermes-ha-integration)
+- 14/10/2026 Started developing an experimental [Casio ABL-100WE integration for Home Assistant](https://github.com/MikelCalvo/ha-casio-abl100)
+- 23/10/2026 Published [Samsung Q70D privacy tools](https://github.com/MikelCalvo/samsung-q70d-privacy-debloat) to disable selected advertising, ACR and voice components
